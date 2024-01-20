@@ -1,0 +1,10 @@
+/Users/jfb/Current/james_web_search/target/debug/deps/liballoc_no_stdlib-3770f3e7289b118e.rmeta: /Users/jfb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloc-no-stdlib-2.0.4/src/lib.rs /Users/jfb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloc-no-stdlib-2.0.4/src/allocated_memory/mod.rs /Users/jfb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloc-no-stdlib-2.0.4/src/allocated_memory/index_macro.rs /Users/jfb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloc-no-stdlib-2.0.4/src/stack_allocator.rs /Users/jfb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloc-no-stdlib-2.0.4/src/allocated_stack_memory.rs /Users/jfb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloc-no-stdlib-2.0.4/src/init.rs
+
+/Users/jfb/Current/james_web_search/target/debug/deps/alloc_no_stdlib-3770f3e7289b118e.d: /Users/jfb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloc-no-stdlib-2.0.4/src/lib.rs /Users/jfb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloc-no-stdlib-2.0.4/src/allocated_memory/mod.rs /Users/jfb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloc-no-stdlib-2.0.4/src/allocated_memory/index_macro.rs /Users/jfb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloc-no-stdlib-2.0.4/src/stack_allocator.rs /Users/jfb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloc-no-stdlib-2.0.4/src/allocated_stack_memory.rs /Users/jfb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloc-no-stdlib-2.0.4/src/init.rs
+
+/Users/jfb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloc-no-stdlib-2.0.4/src/lib.rs:
+/Users/jfb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloc-no-stdlib-2.0.4/src/allocated_memory/mod.rs:
+/Users/jfb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloc-no-stdlib-2.0.4/src/allocated_memory/index_macro.rs:
+/Users/jfb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloc-no-stdlib-2.0.4/src/stack_allocator.rs:
+/Users/jfb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloc-no-stdlib-2.0.4/src/allocated_stack_memory.rs:
+/Users/jfb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloc-no-stdlib-2.0.4/src/init.rs:

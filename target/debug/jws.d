@@ -1,0 +1,1 @@
+/Users/jfb/Current/jws/target/debug/jws: /Users/jfb/Current/jws/src/commands/mod.rs /Users/jfb/Current/jws/src/input_output/mod.rs /Users/jfb/Current/jws/src/main.rs /Users/jfb/Current/jws/src/utils/mod.rs
